@@ -2,3 +2,4 @@
 *.wts
 *.jpg
 *.ppm
+build/*
