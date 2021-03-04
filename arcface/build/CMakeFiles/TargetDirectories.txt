@@ -1,0 +1,4 @@
+/home/ekin/frproj/arcface/build/CMakeFiles/rebuild_cache.dir
+/home/ekin/frproj/arcface/build/CMakeFiles/edit_cache.dir
+/home/ekin/frproj/arcface/build/CMakeFiles/myplugins.dir
+/home/ekin/frproj/arcface/build/CMakeFiles/arcface-r50.dir

@@ -1,0 +1,5 @@
+/home/ekin/frproj/face_recognition/build/CMakeFiles/rebuild_cache.dir
+/home/ekin/frproj/face_recognition/build/CMakeFiles/retina_mnet.dir
+/home/ekin/frproj/face_recognition/build/CMakeFiles/decodeplugin.dir
+/home/ekin/frproj/face_recognition/build/CMakeFiles/edit_cache.dir
+/home/ekin/frproj/face_recognition/build/CMakeFiles/aligning.dir

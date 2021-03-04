@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -Wall -Ofast -Wfatal-errors -D_MWAITXINTRIN_H_INCLUDED -g  -shared -Wl,-soname,libaligning.so -o libaligning.so CMakeFiles/aligning.dir/alignface.cpp.o   -L/usr/local/cuda/targets/aarch64-linux/lib 
